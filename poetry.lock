@@ -735,13 +735,13 @@ cli = ["click (>=5.0)"]
 
 [[package]]
 name = "python-multipart"
-version = "0.0.11"
+version = "0.0.12"
 description = "A streaming multipart parser for Python"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "python_multipart-0.0.11-py3-none-any.whl", hash = "sha256:0597982db95c0ce012d8bd91b8c9eb2b45c7e095122c05cd8fb7ee4c5bf78df6"},
-    {file = "python_multipart-0.0.11.tar.gz", hash = "sha256:1d377f074b69a47dd204c990de57a7cf03d9b85695a3e57faec32d54b78e3e48"},
+    {file = "python_multipart-0.0.12-py3-none-any.whl", hash = "sha256:43dcf96cf65888a9cd3423544dd0d75ac10f7aa0c3c28a175bbcd00c9ce1aebf"},
+    {file = "python_multipart-0.0.12.tar.gz", hash = "sha256:045e1f98d719c1ce085ed7f7e1ef9d8ccc8c02ba02b5566d5f7521410ced58cb"},
 ]
 
 [[package]]
@@ -808,13 +808,13 @@ files = [
 
 [[package]]
 name = "rich"
-version = "13.8.1"
+version = "13.9.1"
 description = "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal"
 optional = false
-python-versions = ">=3.7.0"
+python-versions = ">=3.8.0"
 files = [
-    {file = "rich-13.8.1-py3-none-any.whl", hash = "sha256:1760a3c0848469b97b558fc61c85233e3dafb69c7a071b4d60c38099d3cd4c06"},
-    {file = "rich-13.8.1.tar.gz", hash = "sha256:8260cda28e3db6bf04d2d1ef4dbc03ba80a824c88b0e7668a0f23126a424844a"},
+    {file = "rich-13.9.1-py3-none-any.whl", hash = "sha256:b340e739f30aa58921dc477b8adaa9ecdb7cecc217be01d93730ee1bc8aa83be"},
+    {file = "rich-13.9.1.tar.gz", hash = "sha256:097cffdf85db1babe30cc7deba5ab3a29e1b9885047dab24c57e9a7f8a9c1466"},
 ]
 
 [package.dependencies]
@@ -1207,5 +1207,5 @@ files = [
 
 [metadata]
 lock-version = "2.0"
-python-versions = "3.12.*"
-content-hash = "dea452586c492c0a124ec55c8734e15ba013769a886a1eacda6c08d0cdb5cf4c"
+python-versions = "3.12.6"
+content-hash = "5eba047110e461fd50753d7a2928c8b0c1c5dd9b849526e38411ff6cecbc2606"
